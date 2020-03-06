@@ -1,6 +1,8 @@
 A univeristy project by three student studying master engineering in electronics design.
 The project concepts of designing and building a 8bit computer earlied developed by Ben Eater https://eater.net/
+
 Designed in Altium designer.
+
 PCB's manually built in a PCB lab by etching method.
 
 # Design image of: output_register_front
