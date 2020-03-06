@@ -1,5 +1,7 @@
-# 8bit_computer
-Parts of the complete 8 bit computer
+A univeristy project by three student studying master engineering in electronics design.
+The project concepts of designing and building a 8bit computer earlied developed by Ben Eater https://eater.net/
+Designed in Altium designer.
+PCB's manually built in a PCB lab by etching method.
 
-# image of: output_register
+# Design image of: output_register_front
 ![Capture](https://user-images.githubusercontent.com/61839712/76081248-ffdc6600-5fa8-11ea-8c7c-28a685bbff43.PNG)
